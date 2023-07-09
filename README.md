@@ -1,2 +1,5 @@
-# gen-ai-playground
-A repo with a set of tests
+# Generative AI Playground
+
+A repo with a set of tests:
+
+- [Hugging Face Transformer Agent](./Hugging-Face-Transformer-Agent/TransformerAgents.ipynb)
